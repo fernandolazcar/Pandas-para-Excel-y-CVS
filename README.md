@@ -9,6 +9,7 @@ que básicamente es el cálculo la información de la base monetaria en México.
 su cálculo se compone en Base monetaria = E + Pasivos bancarios
 
 E= es el efectivo en las manos del publico 
+
 pasivos bancarios = cuentas corrientes, bancarias, títulos de hipoteca etc.
 
 
