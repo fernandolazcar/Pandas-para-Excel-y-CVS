@@ -17,3 +17,13 @@ pasivos bancarios = cuentas corrientes, bancarias, títulos de hipoteca etc.
 Es la cantidad de dinero total o efectivo en manos del público, ya sean metales, divisas internas o foráneas en posesión del banco central del país, y es controlado por el mismo ente.  
 
 
+
+referencias futuras que incluyen ejemplos y galerias 
+
+https://matplotlib.org/stable/plot_types/index.html
+
+https://python-graph-gallery.com/
+
+
+
+
